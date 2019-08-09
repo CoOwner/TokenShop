@@ -1,0 +1,9 @@
+name: TokenShop
+main: com.tokenshop.Main
+version: 0.1
+author: StarZorrow
+commands:
+  tokenshop:
+    description: "Opens a tokenshop."
+  tokens:
+    description: "Add, Remove and Check online player's tokens."

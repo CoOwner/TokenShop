@@ -1,0 +1,13 @@
+#Items:
+# 1:
+#    Name: "&aDiamond &cSword"
+#    Use-Command: true
+#    Command: 'give %buyer% 322 1 1'
+#    Send-Message: "&eYou bought &3x%amount% &eEnchanted Golden Apples for %worth% tokens."
+#    Item: DIAMOND_SWORD
+#    Amount: 1
+#    Worth: 1
+
+# Placeholders for this config, %buyer% (Player buying the items), %worth% (The amount of tokens the item is worth), %amount% (The amount of items that is given, this is used when Use-Command is false)
+
+Items:
